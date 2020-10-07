@@ -11,10 +11,15 @@ export default {
 </script>
 
 <style>
+* {
+  margin: 0;
+  padding: 0;
+}
 body,
 html {
   position: relative;
   height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 #app {
   position: relative;
